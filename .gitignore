@@ -1,0 +1,6 @@
+data/
+results/
+runs/
+.DS_Store
+.vscode/
+.json
